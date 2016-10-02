@@ -1,7 +1,7 @@
 Set 1E
-Alex You - AA00933910 - ayou1@my.bcit.ca
-Wei Zhang - A00996514 - ink.wj.zhang@gmail.com
-Nathaniel Zeeman - A00999093 - nathanielzeeman@gmail.com
+Alex You - AA00933910 -
+Wei Zhang - A00996514 -
+Nathaniel Zeeman - A00999093 -
 
 Completed: Zodiac Webpage for assignement 1
 Not Completed: N/A
