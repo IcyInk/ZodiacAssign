@@ -26,7 +26,7 @@ h2 {
 h3 {
 	text-decoration: none;
 }
-.button{
+nav{
     color: white;
     cursor: pointer;
 	text-align: center;
@@ -50,7 +50,7 @@ table{
 margin-left:auto; margin-right:auto
 }
 
-#footer { 
+footer { 
 	text-align: center; 
 	}
 	
